@@ -1,13 +1,9 @@
 # CMPG-323-Overview-32210310
-**Project 1-Agile& Scrum**
+**Overview of Project Structure for the semeter**
 
-**Project 2-API development**
 
-**Project 3-Standard & Patterns**
+**Branching**
 
-**Project 4-Testing & RPA**
+**Repository**
 
-**Project 5-Reporting & Monitoring**
-
-**Portfilo of Evidence(PoE)**
-
+I will have a separate repository for every project.Example project 3 repository will be CMPG 323 Project 3
