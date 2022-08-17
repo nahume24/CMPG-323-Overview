@@ -15,12 +15,14 @@ Project 4: CMPG 323 Project 4- 32210310
 
 Project 5: CMPG 323 Project 5-32210310
 
-
 # Diagram explaining project and repository context and how they are integrated
+
+![Project 1](https://user-images.githubusercontent.com/38375869/185100848-4cfd3586-e015-4b4a-a5ee-dfde4ff33982.PNG)
+
 
 
 # **Branching**
-Project 5 will inherit a brach from project 2
+Project 5 will inherit a branch from project 2
 
 
 # **the use of a .gitignore file within each project**
