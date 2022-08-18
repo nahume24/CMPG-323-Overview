@@ -19,12 +19,13 @@ Project 5: CMPG 323 Project 5-32210310
 ![project 1](https://user-images.githubusercontent.com/38375869/185128126-57d71388-31a4-434a-904b-0e6f5e89ae15.PNG)
 
 # **Branching**
-Project 5 will inherit a branch from project 2
+-Project 5 will inherit a branch from project 2
 
 
-# **the use of a .gitignore file within each project**
+# **The use of a .gitignore file within each project**
 
 When I commit a project to the GitHub repository, Git is instructed by the **gitignore** file which files to ignore. This means that the repository will correspond with the correct project.For example Project 1 repository will be committed to project one therefore it wont interfere with other project that it did not commit to.
 
 
 # The storage of credentials and sensitive information
+
