@@ -19,7 +19,8 @@ Project 5: CMPG 323 Project 5-32210310
 ![project 1](https://user-images.githubusercontent.com/38375869/185128126-57d71388-31a4-434a-904b-0e6f5e89ae15.PNG)
 
 # **Branching**
--Project 5 will inherit a branch from project 2
+
+- Project 5 will inherit a branch from project 2
 
 
 # **The use of a .gitignore file within each project**
@@ -28,7 +29,21 @@ When I commit a project to the GitHub repository, Git is instructed by the **git
 
 
 # The storage of credentials and sensitive information
+You can store sensitive data in your organization's repository or repository environments by using encrypted passwords.
+
+# References:
+- Agile and Scrum in the Real World | Google Project Management Certificate .2021. https://www.youtube.com/watch?v=1evfn3qTYGM&list=LL&index=32 Date of access: 03 August 2022
+- When to Use Agile Methods to Deliver a Project, And When Not To. 2022 .https://www.youtube.com/watch?v=WEZVQbhyeTs&list=LL&index=28 Date of access: 03 August 2022
+
+- Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth.2020 https://www.youtube.com/watch?v=DVRQoVRzMIY&list=LL&index=30 Date of access: 04 August 2022
+
+- Git Tutorial for Beginners - GitHub Version Control. 2019.https://www.youtube.com/watch?v=PWqS4NBhEY8&list=LL&index=31 Date of access:05 August 2022
+
+- Introduction to GitHub Project Boards. 2020. https://www.youtube.com/watch?v=idZyqNIrt84&list=LL&index=22 Date of access:  12 August 2022
+
+- Introducing the NEW GitHub Issues: Table View, Issues Forms, Task Lists. 2021. https://www.youtube.com/watch?v=MvyGcLg6AvI&list=LL&index=16 :Date of access: 13 August 2022
+
+- GitHub. Encrypted secrets. https://docs.github.com/en/actions/security-guides/encrypted-secrets. Date of access: 17 August 2022
 
 
-# References
 
