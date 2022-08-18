@@ -29,3 +29,6 @@ When I commit a project to the GitHub repository, Git is instructed by the **git
 
 # The storage of credentials and sensitive information
 
+
+# References
+
