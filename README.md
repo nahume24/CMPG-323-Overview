@@ -20,7 +20,7 @@ Project 5: CMPG 323 Project 5-32210310
 
 # **Branching**
 
-- Project 5 will inherit a branch from project 2
+- For project 2 will create a new development branch
 
 
 # **The use of a .gitignore file within each project**
