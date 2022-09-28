@@ -20,7 +20,7 @@ Project 5: CMPG 323 Project 5-32210310
 
 # **Branching**
 
-- For project 2 will create a new development branch
+- For project 3 will create a new branch called development branch.Will have to push the progress to development branch not main branch.
 
 
 # **The use of a .gitignore file within each project**
