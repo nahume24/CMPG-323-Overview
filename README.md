@@ -1,4 +1,6 @@
 # CMPG-323-Overview-32210310
+Overview of Project Structure for the semeter-Kanban Charts
+
 **Overview of Project Structure for the semeter**
 
 # **Repository**
