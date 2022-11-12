@@ -27,7 +27,7 @@ Project 5: CMPG 323 Project 5-32210310
 
 # **The use of a .gitignore file within each project**
 
-When I commit a project to the GitHub repository, Git is instructed by the **gitignore** file which files to ignore. This means that the repository will correspond with the correct project.For example Project 1 repository will be committed to project one therefore it wont interfere with other project that it did not commit to. Project 2 and 3 the appsettings would have to be ignored since it contains
+When I commit a project to the GitHub repository, Git is instructed by the **gitignore** file which files to ignore. This means that the repository will correspond with the correct project.For example Project 1 repository will be committed to project one therefore it wont interfere with other project that it did not commit to. Project 2 and 3 the appsettings would have to be ignored since it contains the connection string of the project.
 
 
 # The storage of credentials and sensitive information
