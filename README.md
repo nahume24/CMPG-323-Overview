@@ -1,7 +1,7 @@
 # CMPG-323-Overview-32210310
-Overview of Project Structure for the semeter-Kanban Charts
-
 **Overview of Project Structure for the semeter**
+
+![project 1](https://user-images.githubusercontent.com/38375869/201462059-cb8244a4-131b-4923-9f1b-d0089a43c891.gif)
 
 # **Repository**
 
@@ -22,12 +22,12 @@ Project 5: CMPG 323 Project 5-32210310
 
 # **Branching**
 
-- For project 3 will create a new branch called development branch.Will have to push the progress to development branch not main branch.
+- For project 3 will create a new branch called development branch.Will have to push the progress to development branch not main branch. This will assist me in keeping all of my projects separate, as well as preventing my changes from conflicting and compromising data.
 
 
 # **The use of a .gitignore file within each project**
 
-When I commit a project to the GitHub repository, Git is instructed by the **gitignore** file which files to ignore. This means that the repository will correspond with the correct project.For example Project 1 repository will be committed to project one therefore it wont interfere with other project that it did not commit to.
+When I commit a project to the GitHub repository, Git is instructed by the **gitignore** file which files to ignore. This means that the repository will correspond with the correct project.For example Project 1 repository will be committed to project one therefore it wont interfere with other project that it did not commit to. Project 2 and 3 the appsettings would have to be ignored since it contains
 
 
 # The storage of credentials and sensitive information
