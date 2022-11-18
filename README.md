@@ -30,7 +30,7 @@ Data Visualisation with Power BI
 # Diagram explaining project and repository context and how they are integrated
 ![project 1](https://user-images.githubusercontent.com/38375869/185128126-57d71388-31a4-434a-904b-0e6f5e89ae15.PNG)
 
-The overview repository.
+The overview repository will be linked to Project 2-5 connected by the Kanban board.
 
 # **Branching**
 
