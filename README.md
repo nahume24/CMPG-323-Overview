@@ -34,7 +34,7 @@ The overview repository will be linked to Project 2-5 connected by the Kanban bo
 
 # **Branching**
 
-- For project 3 will create a new branch called development branch.Will have to push the progress to development branch not main branch. This will assist me in keeping all of my projects separate, as well as preventing my changes from conflicting and compromising data.
+- For project 3 will create a new branch called development branch.Will have to push the progress to development branch not main branch. This will assist me in keeping all of my projects separate, as well as preventing my changes from conflicting and compromising data. Project 2,4,5 will have only the main branch being updated.
 
 
 # **The use of a .gitignore file within each project**
