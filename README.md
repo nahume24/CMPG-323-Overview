@@ -1,4 +1,4 @@
-# CMPG-323-Overview-32210310
+# CMPG-323-Overview
 **Overview of Project Structure for the semeter**
 
 ![project 1](https://user-images.githubusercontent.com/38375869/201462059-cb8244a4-131b-4923-9f1b-d0089a43c891.gif)
